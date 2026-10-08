@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Sanctuary - Personal Command Center",
+  "description": "Personal Multi-Purpose Command Center with To-Do, Goals, Expense Tracker, Gym Tracker, Teaching Schedule, Pomodoro, and Gemini AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
